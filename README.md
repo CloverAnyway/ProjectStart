@@ -1,3 +1,5 @@
 # ProjectStart
 
-* 刘石坚测试文本内容
+### AI框架选择
+* 三叶草竞赛：TensorFlow Caffe Torch MXNet Theano 等
+* Intel杯竞赛： Caffe Chainer pyTorch
